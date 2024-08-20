@@ -40,3 +40,10 @@ To run the app locally:
 - ViewModel
 - Navigation Component
 
+## Demo
+
+
+https://github.com/user-attachments/assets/f69d3a3d-778f-4ff3-8f02-ca0521499d4b
+
+
+
